@@ -82,4 +82,6 @@ string spojeno = string.Join(" ", reci);
 Console.WriteLine(spojeno); // "C# je super"
 📌 Spaja niz stringova u jedan string sa razmakom.
 
+zadaci za vezbanje
+https://github.com/AkiAleksaR/String-c-sharp-exercise
 
